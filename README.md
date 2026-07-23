@@ -1,1 +1,3 @@
-# ATLAST-HFOS-
+# ATLAS HFOS
+
+Bootstrap scaffold.
